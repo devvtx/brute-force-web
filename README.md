@@ -1,0 +1,1 @@
+This project is a high-speed, asynchronous password brute-forcing tool built with `aiohttp`, `asyncio`, and `tqdm`. It attempts to find valid credentials by submitting login forms to a target URL using a provided wordlist.
